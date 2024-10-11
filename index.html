@@ -188,8 +188,8 @@
         <h2 class="section__tittle">CONTATOS</h2>   
         </ul>
         <ul class="social-container">
-         <li class="social">
-  <a href="mailto:felipe.cvxavier@gmail.com">
+          <li class="social">
+  <a href="#" onclick="mostrarEmail()">
     <i class="far fa-envelope"></i>
   </a>
 </li>
@@ -219,6 +219,12 @@
           </li>
         </ul>
       </section>
+      <script>
+  function mostrarEmail() {
+    var email = "seuemail@gmail.com";
+    window.location.href = "mailto:" + email;
+  }
+</script>
     </main>
     <footer>
       <span class="copy">
