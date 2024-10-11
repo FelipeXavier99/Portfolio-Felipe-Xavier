@@ -186,13 +186,12 @@
       </section>
       <section class="contatos" id="contato">
         <h2 class="section__tittle">CONTATOS</h2>   
-        </ul>
         <ul class="social-container">
           <li class="social">
-  <a href="#" onclick="mostrarEmail()">
-    <i class="far fa-envelope"></i>
-  </a>
-</li>
+            <a href="#" onclick="mostrarEmail()">
+              <i class="far fa-envelope"></i>
+            </a>
+          </li>
           <li class="social">
             <a
               href="https://wa.me/55048984474826"
@@ -202,39 +201,25 @@
           </li>
           <li class="social">
             <a
-              href="https://www.linkedin.com/in/felipe-xavier-30902678/"
+              href="https://www.linkedin.com/in/vinicius-nunes-dev/"
               target="_blank"
               ><i class="fab fa-linkedin"></i
             ></a>
           </li>
-          <li class="social">
-            <a href="https://github.com/FelipeXavier99" target="_blank">
-              <i class="fab fa-github"></i
-            ></a>
-          </li>
-          <li class="social">
-            <a href="https://www.instagram.com/felipecx7/profilecard/?igsh=MXg0YXg5b3JlbThoNQ==" target="_blank"
-              ><i class="fab fa-instagram"></i
-            ></a>
-          </li>
         </ul>
+        <span id="email" class="contatos__email">felipe@felipe.com</span>
       </section>
-      <script>
-  function mostrarEmail() {
-    var email = "seuemail@gmail.com";
-    window.location.href = "mailto:" + email;
-  }
-</script>
     </main>
-    <footer>
-      <span class="copy">
-        Todos os direitos reservados 2024 | Desenvolvido por
-      </span>
-      <a href="https://github.com/VINICIUSNUNES137" target="_blank"
-        ><span class="copy-name">Felipe Xavier </span></a
-      >
-    </footer>
-    <script src="./mobile-navbar.js"></script>
 
+    <footer>
+      <span class="footer-text">Desenvolvido por Felipe Xavier</span>
+    </footer>
+
+    <script>
+      function mostrarEmail() {
+        const emailElement = document.getElementById("email");
+        emailElement.style.display = "block";
+      }
+    </script>
   </body>
 </html>
