@@ -9,21 +9,20 @@ html {
 
 body {
   display: grid;
-  grid-template-areas: 'content';
+  grid-template-rows: auto 1fr auto; /* Ajuste aqui */
   font-family: 'Ubuntu', sans-serif;
   color: #fff;
   background-color: #000;
+  min-height: 100vh; /* Garante que o body ocupe pelo menos a altura da viewport */
 }
 
 main {
-  grid-area: content;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
 header {
-  grid-area: content;
   z-index: 777;
   max-width: 1200px;
   width: 100%;
@@ -35,7 +34,7 @@ header {
 }
 
 section {
-  height: 100vh;
+  height: 100vh; /* Se quiser que cada seção ocupe toda a altura da viewport */
 }
 
 .voltar {
@@ -47,17 +46,16 @@ section {
   font-size: 2.5rem;
   transition: all 0.5s;
 }
+
 .voltar:hover {
   color: var(--primary-color);
   z-index: 9999;
 }
 
 footer {
-  height: 50px;
+  height: 50px; /* Definindo a altura do footer */
   width: 100%;
   background-color: #0005;
-  grid-area: content;
-  place-self: end center;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -79,23 +77,16 @@ footer {
 }
 
 /* Barra de Rolagem */
-
-/* Fundo que corre */
 ::-webkit-scrollbar-track {
   background-color: #232c3b;
 }
-/* Fundo que corre */
 
 ::-webkit-scrollbar {
   width: 10px;
   background: #f4f4f4;
 }
 
-/* Linha que desce */
 ::-webkit-scrollbar-thumb {
   background: var(--primary-color);
   border-radius: 15px;
 }
-/* Linha que desce*/
-
-/* Barra de Rolagem */
