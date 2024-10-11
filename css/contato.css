@@ -5,10 +5,11 @@
   grid-template-areas:
     'tittle tittle tittle'
     'contato social link';
-  grid-template-rows: auto 1fr;
+  grid-template-rows: auto;
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
-  padding-top: 450px;
+  padding-top: 64px; /* Ajuste o padding para um valor menor */
+  margin-bottom: 50px; /* Adicione uma margem inferior se necessário */
 }
 
 .contato-container {
