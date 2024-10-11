@@ -9,7 +9,7 @@
   grid-template-rows: auto 1fr;
   grid-template-columns: 1fr 1fr;
   gap: 64px;
-  margin-bottom: 100px; /* Adiciona margem inferior para separar da próxima seção */
+  margin-bottom: 350px; /* Adiciona margem inferior para separar da próxima seção */
 }
 
 .description {
