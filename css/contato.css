@@ -9,8 +9,8 @@
   grid-template-rows: auto;
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
-  padding-top: 500px; /* Ajuste o padding para um valor menor */
-  margin-bottom: 50px; /* Adicione uma margem inferior se necessário */
+  margin-bottom: 10px; /* Adicione uma margem inferior se necessário */
+  margin-top: 80px;
 }
 
 .contato-container {
