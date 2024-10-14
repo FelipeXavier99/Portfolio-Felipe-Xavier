@@ -1,9 +1,9 @@
 # **PORTIFÓLIO FELIPE XAVIER - 2024**
 
 
-![Uploading foto.png…]()
+https://github.com/FelipeXavier99/portifolio2/blob/main/img/desktop%201.png?raw=true
 
-## [Clique aqui](https://viniciusnunes137.github.io/portifolio/) para acessar o site
+## [Clique aqui](https://ubiquitous-cascaron-eba84f.netlify.app/) para acessar o site
 
 ## **SOBRE**
 
