@@ -1,7 +1,7 @@
 # **PORTIFÓLIO FELIPE XAVIER - 2024**
 
 
-https://github.com/FelipeXavier99/portifolio2/blob/main/img/desktop%201.png?raw=true
+    (/img/desktop 1.png)
 
 ## [Clique aqui](https://ubiquitous-cascaron-eba84f.netlify.app/) para acessar o site
 
