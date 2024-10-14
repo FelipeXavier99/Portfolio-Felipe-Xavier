@@ -1,7 +1,8 @@
 # **PORTIFÓLIO FELIPE XAVIER - 2024**
 
+![Texto alternativo]portifolio2/img/desktop1.png)
 
-    (/img/desktop 1.png)
+    
 
 ## [Clique aqui](https://ubiquitous-cascaron-eba84f.netlify.app/) para acessar o site
 
