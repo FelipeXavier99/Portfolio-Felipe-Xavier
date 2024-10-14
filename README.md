@@ -1,6 +1,7 @@
 # **PORTIFÓLIO FELIPE XAVIER - 2024**
 
-![Texto alternativo]portifolio2/img/desktop1.png)
+![desktop 1](https://github.com/user-attachments/assets/96565e45-6722-4d57-9112-5aa3ad37685e)
+
 
     
 
