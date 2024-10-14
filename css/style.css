@@ -14,7 +14,7 @@ body {
   font-family: 'Ubuntu', sans-serif;
   color: #fff;
   background-color: #000;
-  height: 100vh; /* Defina a altura do body como 100% da viewport */
+  min-height: 100vh; /* Permite que o conteúdo do body seja maior que a tela */
   margin: 0; /* Remover margens padrão */
 }
 
@@ -36,7 +36,7 @@ header {
 }
 
 section {
-  height: 100vh; /* Para garantir que a seção ocupe toda a altura da tela */
+  padding: 50px 0; /* Ajuste o padding conforme necessário */
 }
 
 .voltar {
@@ -71,6 +71,7 @@ footer {
   font-weight: 600;
 }
 
+/* Ajuste opcional para icones de navegação */
 @media (max-width: 3000px) {
   .navigation-icon {
     visibility: hidden;
