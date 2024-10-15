@@ -8,7 +8,7 @@
     'description skills';
   grid-template-rows: auto 1fr;
   grid-template-columns: 1fr 1fr;
-  gap: 64px;
+  gap: 33px;
   margin-bottom: 85px; /* Adiciona margem inferior para separar da próxima seção */
 }
 
