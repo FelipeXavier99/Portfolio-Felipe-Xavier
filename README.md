@@ -1,4 +1,4 @@
-# **PORTIFÓLIO FELIPE XAVIER - 2024**
+# **PORTFÓLIO FELIPE XAVIER - 2024**
 
 
 
@@ -6,7 +6,7 @@
 
     
 
-## [Clique aqui](https://portifolio-felipe-xavier.netlify.app/) para acessar o site
+## [Clique aqui](https://portfolio-felipe-xavier.netlify.app/) para acessar o site
 
 ## **SOBRE**
 
