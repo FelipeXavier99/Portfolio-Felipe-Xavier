@@ -1,11 +1,12 @@
 # **PORTIFÓLIO FELIPE XAVIER - 2024**
 
 
-![desktop 1](https://github.com/user-attachments/assets/08c407c8-0ead-4907-bf54-e5ce2fd2b3ff)
+
+![Screenshot 2024-10-16 at 11-27-32 Portifólio - Felipe Xavier](https://github.com/user-attachments/assets/1041e737-7584-4a11-8481-225c3e3aa155)
 
     
 
-## [Clique aqui](https://ubiquitous-cascaron-eba84f.netlify.app/) para acessar o site
+## [Clique aqui](https://portifolio-felipe-xavier.netlify.app/) para acessar o site
 
 ## **SOBRE**
 
